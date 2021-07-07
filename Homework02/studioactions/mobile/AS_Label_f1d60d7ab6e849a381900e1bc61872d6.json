@@ -13,7 +13,7 @@
             "name": "y"
         }],
         "contextObj": {
-            "name": "Homescreen",
+            "name": "flxHomescreen",
             "type": "forms",
             "platform": "",
             "KUID": "a73a21b190d7481cbebd9bdba48b0be2"

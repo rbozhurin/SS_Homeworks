@@ -1,110 +1,152 @@
 define({
   segDataList: [
-   {name: "Sotir Cacarov",
+   {
+     name: "Sotir Cacarov",
 	phone: "0884238547",
     email: "caca@abv.bg",
     src: "caca.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Sofronii Vrachanski",
+  	dateAdded: "23/04/2021"
+   },
+   {
+     name: "Sofronii Vrachanski",
     phone: "0888236521",
     email: "jitieAndStradanie@halo.com",
     src: "sofronii.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Krali Marko i Snejina",
+  	dateAdded: "23/04/2021"
+   },
+   {
+     name: "Krali Marko i Snejina",
     phone: "0845825521",
     email: "chakaraka@giubek.be",
     src: "markoAndsneja.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Sotir Cacarov",
+  	dateAdded: "23/04/2021"
+   },
+   {
+    name: "Sotir Cacarov",
 	phone: "0884238547",
     email: "caca@abv.bg",
     src: "caca.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Sofronii Vrachanski",
+  	dateAdded: "23/04/2021"
+   },
+   {
+     name: "Sofronii Vrachanski",
     phone: "0888236521",
     email: "jitieAndStradanie@halo.com",
     src: "sofronii.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Krali Marko i Snejina",
+  	dateAdded: "23/04/2021"
+   },
+   {
+    name: "Krali Marko i Snejina",
     phone: "0845825521",
     email: "chakaraka@giubek.be",
     src: "markoAndsneja.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Ali Baba",
+  	dateAdded: "23/04/2021"
+   },
+   {
+    name: "Ali Baba",
     phone: "0888888888",
     email: "lotaria@biletche.com",
     src: "aliBaba.png",
-    dateAdded: "25/06/2021"},
-   {name: "Sotir Cacarov",
+    dateAdded: "25/06/2021"
+   },
+   {
+    name: "Sotir Cacarov",
 	phone: "0884238547",
     email: "caca@abv.bg",
     src: "caca.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Sofronii Vrachanski",
+  	dateAdded: "23/04/2021"
+   },
+   {
+    name: "Sofronii Vrachanski",
     phone: "0888236521",
     email: "jitieAndStradanie@halo.com",
     src: "sofronii.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Krali Marko i Snejina",
+  	dateAdded: "23/04/2021"
+   },
+   {
+     name: "Krali Marko i Snejina",
     phone: "0845825521",
     email: "chakaraka@giubek.be",
     src: "markoAndsneja.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Sotir Cacarov",
+  	dateAdded: "23/04/2021"
+   },
+   {
+    name: "Sotir Cacarov",
 	phone: "0884238547",
     email: "caca@abv.bg",
     src: "caca.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Ali Baba",
+  	dateAdded: "23/04/2021"
+   },
+   {
+    name: "Ali Baba",
     phone: "0888888888",
     email: "lotaria@biletche.com",
     src: "aliBaba.png",
-    dateAdded: "25/06/2021"},
-   {name: "Sofronii Vrachanski",
+    dateAdded: "25/06/2021"
+   },
+   {
+    name: "Sofronii Vrachanski",
     phone: "0888236521",
     email: "jitieAndStradanie@halo.com",
     src: "sofronii.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Krali Marko i Snejina",
+  	dateAdded: "23/04/2021"
+   },
+   {
+    name: "Krali Marko i Snejina",
     phone: "0845825521",
     email: "chakaraka@giubek.be",
     src: "markoAndsneja.png",
-  	dateAdded: "23/04/2021"},
-   {name: "Ali Baba",
+  	dateAdded: "23/04/2021"
+   },
+   {
+    name: "Ali Baba",
     phone: "0888888888",
     email: "lotaria@biletche.com",
     src: "aliBaba.png",
-    dateAdded: "25/06/2021"},
-    {name: "Rapunzel",
+    dateAdded: "25/06/2021"
+   },
+    {
+      name: "Rapunzel",
      phone: "0888346703",
      email: "longHair@tower.org",
      src: "rapunzel.png",
-     dateAdded: "25/06/2021"},
-    {name: "Kasket Geshev",
+     dateAdded: "25/06/2021"
+    },
+    {
+     name: "Kasket Geshev",
      phone: "0888560253",
      email: "kasket@pravda.org",
      src: "kasket.png",
-     dateAdded: "25/06/2021"},
-    {name: "Rapunzel",
+     dateAdded: "25/06/2021"
+    },
+    {
+     name: "Rapunzel",
      phone: "0888346703",
      email: "longHair@tower.org",
      src: "rapunzel.png",
-     dateAdded: "25/06/2021"},
-    {name: "Kasket Geshev",
+     dateAdded: "25/06/2021"
+    },
+    {
+     name: "Kasket Geshev",
      phone: "0888560253",
      email: "kasket@pravda.org",
      src: "kasket.png",
-     dateAdded: "25/06/2021"},
-    {name: "Rapunzel",
+     dateAdded: "25/06/2021"
+    },
+    {
+     name: "Rapunzel",
      phone: "0888346703",
      email: "longHair@tower.org",
      src: "rapunzel.png",
-     dateAdded: "25/06/2021"},
-    {name: "Kasket Geshev",
+     dateAdded: "25/06/2021"
+    },
+    {
+     name: "Kasket Geshev",
      phone: "0888560253",
      email: "kasket@pravda.org",
      src: "kasket.png",
-     dateAdded: "25/06/2021"},
+     dateAdded: "25/06/2021"
+    },
   ],
   
   formatedData: [],
@@ -140,7 +182,7 @@ define({
     var contactData = this.segDataList[indexOfSelectedRow];
     kony.store.setItem("contactDetails", contactData);
     
-    var ntf = new kony.mvc.Navigation("Homescreen");
+    var ntf = new kony.mvc.Navigation("flxHomescreen");
     ntf.navigate();
   },
 
