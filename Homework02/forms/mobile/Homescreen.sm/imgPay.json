@@ -24,7 +24,7 @@
         0
     ],
     "_skin_": "sd6db923afb44d9a8a0f28a6072efaa0",
-    "_src_": "imagedrag.png",
+    "_src_": "pay.png",
     "_top_": {
         "type": "string",
         "value": "9dp"
@@ -45,6 +45,7 @@
     "id": "imgPay",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "f63bf23c1a1f414393a8285cfd7c7c2a",

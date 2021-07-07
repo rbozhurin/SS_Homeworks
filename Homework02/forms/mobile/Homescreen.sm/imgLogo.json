@@ -24,7 +24,7 @@
         0
     ],
     "_skin_": "sd6db923afb44d9a8a0f28a6072efaa0",
-    "_src_": "imagedrag.png",
+    "_src_": "p.png",
     "_top_": {
         "type": "string",
         "value": "164dp"
@@ -45,6 +45,7 @@
     "id": "imgLogo",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "gc2fbb5217294779b9e3522cae82d93e",

@@ -27,3 +27,2465 @@ java.io.FileNotFoundException: D:\Homework\.metadata\.plugins\org.eclipse.core.r
 	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2376)
 	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2021-07-07 11:54:01.886 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -perspective com.pat.tool.keditor.perspective.KonyPerspective -application org.eclipse.ui.ide.workbench -product com.kony.ide.paas.branding.studio
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.pat.tool.keditor.perspective.KonyPerspective -application org.eclipse.ui.ide.workbench -product com.kony.ide.paas.branding.studio
+
+!ENTRY org.eclipse.ui 2 0 2021-07-07 11:54:06.639
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-07 11:54:06.639
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.pat.tool.keditor', id='com.pat.tool.keditor.cleanAndBuildCommand'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-07-07 11:54:06.639
+!MESSAGE Cannot bind to an undefined command: plug-in='com.pat.tool.keditor', id='com.pat.tool.keditor.applicationpublish'
+
+!ENTRY com.kony.ide.paas.branding 1 0 2021-07-07 11:54:09.002
+!MESSAGE Time taken for loading Studio plugin: 2297
+
+!ENTRY com.kony.ide.paas.branding 1 0 2021-07-07 11:54:20.746
+!MESSAGE Time taken for loading node plugins: 11744
+
+!ENTRY org.eclipse.ui 4 4 2021-07-07 11:54:21.865
+!MESSAGE Conflicting handlers for com.pat.tool.keditor.command.appviewer: {com.kony.studio.menus.handlers.HelpEventHandler} vs {com.kony.studio.menus.handlers.HelpEventHandler}
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.339
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.453
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.454
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.455
+!MESSAGE Both are same.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.455
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.457
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 11:54:31.503
+!MESSAGE Unable to find defaultemumetadata.json file from D:/Homework\_ios\defaultemulator\defaultemumetadata.json location.
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 11:54:31.504
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.512
+!MESSAGE Eclipse opened time: Jul 07, 2021 11:54 AM
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 11:54:31.540
+!MESSAGE blackberry_50 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 11:54:31.540
+!MESSAGE blackberry_60 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 11:54:31.541
+!MESSAGE blackberry_70 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 11:54:31.542
+!MESSAGE windows_phone key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 11:54:31.542
+!MESSAGE enableMetrics key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.556
+!MESSAGE PLUGIN DETAILS: com.kony.windows:8.4.129.v202103121404::true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.556
+!MESSAGE PLUGIN DETAILS: com.pat.j2me:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.556
+!MESSAGE PLUGIN DETAILS: com.kony.bb10:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.557
+!MESSAGE PLUGIN DETAILS: com.pat.winmobile:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.559
+!MESSAGE PLUGIN DETAILS: com.kony.windowsphone8:8.4.129.v202103121824::true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.559
+!MESSAGE PLUGIN DETAILS: com.kony.windowsphone8:8.4.129.v202103121824::true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.562
+!MESSAGE PLUGIN DETAILS: com.kony.windows8:8.4.129.v202103121804::true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.566
+!MESSAGE PLUGIN DETAILS: com.kony.windows10:8.4.129.v202103121320::true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.566
+!MESSAGE PLUGIN DETAILS: com.pat.winmobile6x:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.569
+!MESSAGE PLUGIN DETAILS: com.pat.android:8.4.134.v202105281022::true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.572
+!MESSAGE PLUGIN DETAILS: com.pat.tabrcandroid:8.4.134.v202105281022::true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.572
+!MESSAGE PLUGIN DETAILS: com.kony.nativecodegen:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.575
+!MESSAGE PLUGIN DETAILS: com.kony.spa:8.4.129.v202103101211::true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.579
+!MESSAGE PLUGIN DETAILS: com.kony.desktopweb:8.4.129.v202103101003::true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.582
+!MESSAGE PLUGIN DETAILS: com.kony.webcommons:8.4.129.202103121224::true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.584
+!MESSAGE PLUGIN DETAILS: com.kony.ios:8.4.134.v202105312044::true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.585
+!MESSAGE USER LOCATION: file:/C:/Users/User/user/
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.585
+!MESSAGE IDE BUNDLE LOCATION: /C:/KonyVisualizerEnterprise8.4.11.0/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/504/1/.cp/
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.696
+!MESSAGE 'com.kony.help' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.697
+!MESSAGE 'com.kony.nativecodegen' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.703
+!MESSAGE 'com.kony.cloudtc' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.709
+!MESSAGE 'com.kony.studio.sky' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.717
+!MESSAGE 'com.kony.studio.viz.chrome.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.742
+!MESSAGE 'com.kony.studio.viz.core.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.746
+!MESSAGE 'com.kony.studio.viz.nodejs.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.749
+!MESSAGE 'com.pat.j2me' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.749
+!MESSAGE 'com.kony.bb10' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.750
+!MESSAGE 'com.pat.winmobile' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.753
+!MESSAGE 'com.pat.winmobile6x' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.754
+!MESSAGE 'com.pat.brew' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.754
+!MESSAGE 'com.pat.palm' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.756
+!MESSAGE 'com.pat.playbook' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.758
+!MESSAGE 'com.pat.qt' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.759
+!MESSAGE 'com.pat.andcodeinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.759
+!MESSAGE 'com.pat.bbcodeinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.760
+!MESSAGE 'com.pat.iospolicyinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.765
+!MESSAGE 'tk.eclipse.plugin.htmleditor' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.766
+!MESSAGE 'com.kony.video' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:31.771
+!MESSAGE Plugin Details are stored successfully at D:\Homework\konyplugins.xml.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:32.155
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:53.520
+!MESSAGE Node server shut down successfull.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:54:53.521
+!MESSAGE workspace location: D:\Homework
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:04.567
+!MESSAGE Node location: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\konywebstudio\nw\nw_win\node.exe
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:04.569
+!MESSAGE Node start location: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\nw\node_start.bat
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:04.570
+!MESSAGE Starting node server...
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:04.573
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:42.336
+!MESSAGE Executing node startup command: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\konywebstudio\nw\nw_win\node.exe app.js console D:\Homework C:\Users\User\Kony Visualizer C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\konywebstudio\nw\nw_win\node.exe --NODE_APP_INSTANCE=vide --NODE_CONFIG={\"testRecorderWebSocketPort\":9111,\"transfer\":{\"codeanalysis\":{\"serverport\":5230}},\"codeanalysis\":{\"serverport\":5230},\"autonomousBot\":{\"serverport\":4210},\"expressServerPort\":5000,\"functionalPreviewPort\":8888,\"monitorAssets\":true,\"vizClientConfig\":{\"enableModelDriven\":false,\"monitorAssets\":true,\"enableCordovaDevelopment\":true,\"autonomousIQServerPort\":4210,\"enableAppGroups\":true,\"isHeadlessBuild\":false,\"enableToolTips\":true,\"isVizSigned\":true,\"testRecorderWebSocketPort\":9111,\"enableNativeApi\":true,\"enableAppWizards\":true,\"enableOrientation\":true,\"enableMarketplace\":true,\"enableMVCExtensions\":false,\"enableIQChat\":null},\"isHeadlessBuild\":false,\"addonServerPort\":9095,\"isVizSigned\":true} 
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:42.343
+!MESSAGE Time for node to execute : 5msec
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:42.344
+!MESSAGE ***Started watch for node server...
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:42.741
+!MESSAGE [node console]Loading[config]..C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\konywebstudio\config\default.js
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:42.744
+!MESSAGE [node console]Workspace dir :: D:\Homework
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:42.752
+!MESSAGE [node console]Couldn't find java home.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:42.757
+!MESSAGE [node console]Proxy details not found. Setting useProxy to false.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.162
+!MESSAGE [node console]GitDir: C:\Users\User\Kony Visualizer\vizdata\.konyvizgit
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.481
+!MESSAGE [node console]Viz running in EMBEDDED mode
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.488
+!MESSAGE [node console][36m[2021-07-07 11:55:49.485] [DEBUG] vide - [39mIn pullWelcomeScreen ...
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.491
+!MESSAGE [node console][36m[2021-07-07 11:55:49.491] [DEBUG] vide - [39mDownload welcome screen: http://download.kony.com/installer/visualizer/WelcomeScreen8400/enterprise-WelcomeScreen8400.zip
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.497
+!MESSAGE [node console][36m[2021-07-07 11:55:49.497] [DEBUG] vide - [39mRequesting File from http://download.kony.com/installer/visualizer/WelcomeScreen8400/enterprise-WelcomeScreen8400.zip
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.504
+!MESSAGE [node console][36m[2021-07-07 11:55:49.505] [DEBUG] vide - [39mDevice detection :: Spawning child process : C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\konywebstudio\nw\nw_win\node.exe C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\konywebstudio\lib\usbDeviceDetection\deviceDetection.js
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.515
+!MESSAGE [node console][32m[2021-07-07 11:55:49.515] [INFO] vide - [39mWeb App .webapps
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.563
+!MESSAGE [node console][36m[2021-07-07 11:55:49.564] [DEBUG] vide - [39mEventEmitted: proxyServiceStart200[not in use]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.564
+!MESSAGE [node console][36m[2021-07-07 11:55:49.564] [DEBUG] vide - [39mEventEmitted: authServiceStart200[...]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.565
+!MESSAGE [node console][32m[2021-07-07 11:55:49.565] [INFO] vide - [39mRequest consumer Id
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.584
+!MESSAGE [node console][32m[2021-07-07 11:55:49.584] [INFO] vide - [39mResource Service started on port 5095
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.585
+!MESSAGE [node console][36m[2021-07-07 11:55:49.584] [DEBUG] vide - [39mEventEmitted: resourceServiceStart200[5095]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.585
+!MESSAGE [node console][32m[2021-07-07 11:55:49.585] [INFO] vide - [39mFunctional Preview Server started on port 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.585
+!MESSAGE [node console][36m[2021-07-07 11:55:49.585] [DEBUG] vide - [39mEventEmitted: functionalPreviewStart200[8888]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.586
+!MESSAGE [node console][32m[2021-07-07 11:55:49.585] [INFO] vide - [39mNotifier Service started on port 5099
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.586
+!MESSAGE [node console][36m[2021-07-07 11:55:49.585] [DEBUG] vide - [39mEventEmitted: kvNotifierStart200[5099]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.587
+!MESSAGE [node console][36m[2021-07-07 11:55:49.585] [DEBUG] vide - [39mAddon server listening on port 9095
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.587
+!MESSAGE [node console][36m[2021-07-07 11:55:49.585] [DEBUG] vide - [39mAddon server is up!!
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.587
+!MESSAGE [node console][36m[2021-07-07 11:55:49.586] [DEBUG] vide - [39mEventEmitted: kvAddonStart200[9095]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.829
+!MESSAGE [node console][31m[2021-07-07 11:55:49.829] [ERROR] vide - [39mError downloading welcome screen:  Can't download zip file. Response code: 404
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.833
+!MESSAGE [node console]Loading[config]..C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\konywebstudio\config\default.js
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.837
+!MESSAGE [node console]Workspace dir :: konyworkspace
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.846
+!MESSAGE [node console]Couldn't find java home.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.885
+!MESSAGE [node console][32m[2021-07-07 11:55:49.881] [INFO] ~~~~ - [39mUSB Detection :: Device monitoring started.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.887
+!MESSAGE Node Server state :true
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:49.940
+!MESSAGE [node error](node:6384) [DEP0106] DeprecationWarning: crypto.createCipher is deprecated.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.013
+!MESSAGE javaLibPath->C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/KonyVisualizerEnterprise8.4.11.0/Kony_Visualizer_Enterprise/jre/bin/server;C:/KonyVisualizerEnterprise8.4.11.0/Kony_Visualizer_Enterprise/jre/bin;C:/KonyVisualizerEnterprise8.4.11.0/Kony_Visualizer_Enterprise/jre/lib/amd64;C:\Python39\Scripts\;C:\Python39\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\User\AppData\Local\Microsoft\WindowsApps;;D:\Microsoft VS Code\bin;C:\Users\User\AppData\Roaming\npm;C:\KonyVisualizerEnterprise8.4.11.0\Ant\bin;C:\KonyVisualizerEnterprise8.4.11.0\Java\jdk\bin;C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise;;.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.014
+!MESSAGE DYLD_LIBRARY_PATH(Only in Mac)->null
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.014
+!MESSAGE JAVACEF_PATH->C:\KonyVisualizerEnterprise8.4.11.0/Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.015
+!MESSAGE Invoking windows configure libs
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.261
+!MESSAGE Chrome lib location->C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\491\1\.cp\win64_build\third_party\chromium_loader
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.262
+!MESSAGE CEF lib location->C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\491\1\.cp\win64_build\third_party\cef_runtime\win64
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.262
+!MESSAGE java.library.path->C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\491\1\.cp\win64_build\third_party\chromium_loader;C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\491\1\.cp\win64_build\third_party\cef_runtime\win64
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.264
+!MESSAGE fieldSysPath->private static java.lang.String[] java.lang.ClassLoader.sys_paths
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.264
+!MESSAGE java.library.path configured
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.266
+!MESSAGE Invoking chromebrowser.embed()
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.378
+!MESSAGE Invoking vide init()
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:55:50.379
+!MESSAGE Invoking vide initiated
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 11:55:55.202
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.SWT.error(SWT.java:4283)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:472)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:344)
+	at org.eclipse.swt.widgets.Text.getText(Text.java:1345)
+	at org.eclipse.ui.internal.quickaccess.QuickAccessContents$4$1.run(QuickAccessContents.java:550)
+	at org.eclipse.swt.widgets.Display.runTimer(Display.java:4271)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3358)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:56:01.084
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:57:15.346
+!MESSAGE [node error]No Instance(s) Available.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:57:15.347
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:57:15.482
+!MESSAGE [node console]Initial scan complete. Ready for changes.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:57:33.514
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 12:10:03.597
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:16.579
+!MESSAGE SET_FP_PLATFORMS -> {"SERVICE_NAME":"SET_FP_PLATFORMS","MSG_ID":30,"MSG_TYPE":"POST","DATA":{"selectedPlatforms":["android"],"fpbuildMode":"debug","source":"RUN"},"CURRENT_PROJECT_NAME":"Homework02","CURRENT_PROJECT_CATEGORY":"app"}
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:16.781
+!MESSAGE [node console]BuildCode: 0.298ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:16.789
+!MESSAGE [node console]BuildCode: 0.022ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:16.799
+!MESSAGE [node console]BuildCode: 0.010ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:16.809
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:16.825
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:16.838
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:16.953
+!MESSAGE Project got saved: {"MSG_ID":50,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":50,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 12:10:18.857
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:22.240
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:23.211
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:23.223
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:35.977
+!MESSAGE [node console]ModuleSyntaxCheck: 181.650ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:35.978
+!MESSAGE [node console]OUTPUT DIR :D:\Homework\.webapps\Homework02
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:36.732
+!MESSAGE [node console]Codegen Successful for Platforms : android
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:47.875
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:47.875
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:10:52.053
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:11:07.914
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:11:48.713
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:05.842
+!MESSAGE [node error]Wed, 07 Jul 2021 09:12:05 GMT express deprecated req.param(name): Use req.params, req.body, or req.query instead at preview\fpService.js:3:8555
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:05.845
+!MESSAGE [node error]Wed, 07 Jul 2021 09:12:05 GMT express deprecated req.param(name): Use req.params, req.body, or req.query instead at preview\fpService.js:3:9730
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:05.849
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m6.430 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:05.967
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m1.787 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:06.074
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.116 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:06.102
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.036 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:06.153
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.060 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:16.679
+!MESSAGE [node error]Wed, 07 Jul 2021 09:12:16 GMT express deprecated req.param(name): Use req.params, req.body, or req.query instead at preview\fpService.js:3:9861
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:16.681
+!MESSAGE [node error]Wed, 07 Jul 2021 09:12:16 GMT express deprecated req.param(name): Use req.params, req.body, or req.query instead at preview\fpService.js:3:9904
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:16.681
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649035792&version=7.1 [32m200 [0m1.389 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:16.682
+!MESSAGE [node error]Wed, 07 Jul 2021 09:12:16 GMT express deprecated req.param(name): Use req.params, req.body, or req.query instead at preview\fpService.js:3:9979
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:12:26.721
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649035792&version=7.1 [32m200 [0m0.679 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 12:22:54.507
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:22:54.638
+!MESSAGE [node console]BuildCode: 0.012ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:22:54.649
+!MESSAGE [node console]BuildCode: 0.012ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:22:54.662
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:22:54.673
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:22:54.683
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:22:54.697
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:22:54.772
+!MESSAGE Project got saved: {"MSG_ID":156,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":156,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 12:22:56.620
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:22:56.720
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:22:56.722
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:22:56.725
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:06.110
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:06.110
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:06.132
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:19.437
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:19.553
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:27.831
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.980 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:27.854
+!MESSAGE [node error]Wed, 07 Jul 2021 09:23:27 GMT express deprecated req.param(name): Use req.params, req.body, or req.query instead at preview\fpService.js:3:11112
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:27.969
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m7.267 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:28.038
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.535 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:28.068
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.255 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:28.136
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.192 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:38.688
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649785919&version=7.1 [32m200 [0m0.688 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:48.748
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649785919&version=7.1 [32m200 [0m1.358 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:23:58.813
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649785919&version=7.1 [32m200 [0m1.900 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:08.858
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649785919&version=7.1 [32m200 [0m0.553 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:18.935
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649785919&version=7.1 [32m200 [0m0.739 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:28.975
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649785919&version=7.1 [32m200 [0m2.552 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:39.023
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649785919&version=7.1 [32m200 [0m1.166 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 12:24:54.827
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:54.921
+!MESSAGE [node console]BuildCode: 0.014ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:54.931
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:54.942
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:54.958
+!MESSAGE [node console]BuildCode: 0.007ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:54.969
+!MESSAGE [node console]BuildCode: 0.018ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:54.979
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:55.039
+!MESSAGE Project got saved: {"MSG_ID":247,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":247,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 12:24:56.798
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:56.922
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:56.924
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:24:56.926
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:07.210
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:07.210
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:07.231
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:23.407
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:23.824
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:33.383
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.762 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:33.533
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m3.877 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:33.600
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.230 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:33.624
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.181 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:33.688
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.247 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:44.212
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649907079&version=7.1 [32m200 [0m0.544 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:25:54.243
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649907079&version=7.1 [32m200 [0m0.591 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 12:26:00.530
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:00.617
+!MESSAGE [node console]BuildCode: 0.017ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:00.628
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:00.640
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:00.656
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:00.665
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:00.675
+!MESSAGE [node console]BuildCode: 0.007ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:00.732
+!MESSAGE Project got saved: {"MSG_ID":332,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":332,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 12:26:02.481
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:02.566
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:02.569
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:02.572
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:04.299
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649907079&version=7.1 [32m200 [0m1.772 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:16.268
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:16.269
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:16.337
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:27.401
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:27.535
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:39.542
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m2.157 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:39.781
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m6.900 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:39.944
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m2.717 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:39.991
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.217 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:40.104
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.211 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:26:50.677
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625649975581&version=7.1 [32m200 [0m1.161 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 12:27:38.335
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:38.418
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:38.427
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:38.436
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:38.447
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:38.458
+!MESSAGE [node console]BuildCode: 0.007ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:38.472
+!MESSAGE [node console]BuildCode: 0.007ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:38.521
+!MESSAGE Project got saved: {"MSG_ID":417,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":417,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 12:27:40.276
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:40.361
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:40.364
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:40.373
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:48.530
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:48.531
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:48.553
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:56.440
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:27:56.540
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:28:51.600
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.132 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:28:51.773
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m2.402 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:28:51.813
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.182 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:28:51.856
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.171 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:28:51.926
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.138 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:29:02.452
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650068385&version=7.1 [32m200 [0m5.568 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:29:12.493
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650068385&version=7.1 [32m200 [0m0.779 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:29:22.544
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650068385&version=7.1 [32m200 [0m0.521 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 12:30:08.212
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:08.292
+!MESSAGE [node console]BuildCode: 0.006ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:08.303
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:08.315
+!MESSAGE [node console]BuildCode: 0.015ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:08.330
+!MESSAGE [node console]BuildCode: 0.007ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:08.341
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:08.351
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:08.408
+!MESSAGE Project got saved: {"MSG_ID":503,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":503,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 12:30:10.159
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:10.235
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:10.238
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:10.240
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:21.627
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:21.628
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:21.650
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:31.744
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:32.079
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:36.478
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.537 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:36.666
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m3.450 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:36.730
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.883 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:36.750
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.212 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:36.801
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.166 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:47.335
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650221490&version=7.1 [32m200 [0m1.464 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:30:57.375
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650221490&version=7.1 [32m200 [0m1.524 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:07.422
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650221490&version=7.1 [32m200 [0m1.079 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:17.493
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650221490&version=7.1 [32m200 [0m1.587 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:27.552
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650221490&version=7.1 [32m200 [0m1.384 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 12:31:39.590
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:39.693
+!MESSAGE [node console]BuildCode: 0.014ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:39.705
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:39.715
+!MESSAGE [node console]BuildCode: 0.013ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:39.728
+!MESSAGE [node console]BuildCode: 0.012ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:39.740
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:39.752
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:39.960
+!MESSAGE Project got saved: {"MSG_ID":591,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":591,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 12:31:41.709
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:41.785
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:41.788
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:41.790
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:53.240
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:53.240
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:31:53.259
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:32:05.322
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:32:05.412
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:32:21.694
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m2.064 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:32:21.827
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m5.641 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:32:21.898
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.310 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:32:21.948
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.536 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:32:22.007
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m2.070 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:32:32.580
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m7.984 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:41:43.748
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m0.612 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:41:44.295
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m1.824 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:41:44.379
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.841 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:41:44.394
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.166 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:41:44.453
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.764 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:41:54.960
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m0.511 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 12:42:17.832
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m0.512 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:12:34.809
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.200 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:12:35.175
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m4.739 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:12:35.248
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.768 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:12:35.288
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.834 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:12:35.374
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.284 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:12:45.901
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m1.623 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:12:55.986
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m1.651 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:13:06.053
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m0.742 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:13:16.128
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m0.668 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:13:26.185
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m2.378 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:13:36.267
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m2.225 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:25:35.723
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m0.698 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:25:35.915
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m1.968 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:25:35.994
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m2.612 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:25:36.064
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m3.417 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:25:36.146
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m2.742 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:25:46.689
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m1.504 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:25:56.722
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m1.380 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:26:06.767
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m1.580 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:26:16.813
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625650312964&version=7.1 [32m200 [0m1.316 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 14:32:28.026
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:28.107
+!MESSAGE [node console]BuildCode: 0.010ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:28.120
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:28.142
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:28.154
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:28.166
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:28.179
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:28.791
+!MESSAGE Project got saved: {"MSG_ID":704,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":704,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 14:32:31.256
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:31.359
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:31.362
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:31.364
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:45.637
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:45.637
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:32:45.669
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:33:01.294
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:33:01.404
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:33:05.820
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.867 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:33:06.140
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m4.410 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:33:06.213
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m2.830 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:33:06.271
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.202 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:33:06.337
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.352 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:33:16.907
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625657565266&version=7.1 [32m200 [0m1.538 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 14:35:14.160
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:14.250
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:14.260
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:14.269
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:14.285
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:14.296
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:14.306
+!MESSAGE [node console]BuildCode: 0.015ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:14.394
+!MESSAGE Project got saved: {"MSG_ID":788,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":788,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 14:35:16.192
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:16.261
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:16.264
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:16.266
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:30.172
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:30.173
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:30.188
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:45.675
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:45.780
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:47.437
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.654 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:47.679
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m8.813 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:47.758
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m4.965 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:47.811
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.527 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:47.886
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.551 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 14:35:58.478
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625657729724&version=7.1 [32m200 [0m1.122 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 15:00:29.126
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:29.240
+!MESSAGE [node console]BuildCode: 0.010ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:29.254
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:29.266
+!MESSAGE [node console]BuildCode: 0.012ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:29.276
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:29.290
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:29.303
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:29.416
+!MESSAGE Project got saved: {"MSG_ID":872,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":872,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 15:00:31.144
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:31.216
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:31.219
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:31.222
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:45.035
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:45.036
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:45.053
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:57.592
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:00:57.689
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:01:09.958
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m0.752 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:01:10.152
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m4.987 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:01:10.245
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.685 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:01:10.260
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.024 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:01:10.326
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.077 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:01:20.877
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m0.946 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:01:30.908
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m1.019 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:01:40.946
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m1.027 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:01:50.991
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m1.042 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:04:01.145
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.097 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:04:01.297
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m4.175 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:04:01.373
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.525 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:04:01.429
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.042 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:04:01.484
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.803 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:04:12.029
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m1.032 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:04:22.064
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m1.030 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:07:30.455
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.050 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:07:30.655
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m5.181 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:07:30.715
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m2.250 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:07:30.759
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m0.994 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:07:30.842
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.053 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:07:41.398
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m1.007 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:07:51.438
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m1.028 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:08:01.485
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m0.979 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:08:11.520
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m0.993 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:08:21.565
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m1.005 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:08:31.644
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m3.101 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:08:41.695
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m0.990 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:08:51.776
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m0.983 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:09:01.823
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625659244795&version=7.1 [32m200 [0m0.990 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:16:42.556
+!MESSAGE GET_FILE_DIALOG-> {"SERVICE_NAME":"FILE_DIALOG","MSG_ID":251,"MSG_TYPE":"REQUEST","DATA":{"dialogType":"OPENFILE","acceptTypes":".png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.gif,.GIF","multiple":true},"CURRENT_PROJECT_NAME":"Homework02","CURRENT_PROJECT_CATEGORY":"app"}
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:16:50.202
+!MESSAGE service str from IDE->{"path":"D:\\\\Homework\\\\Homework02\\\\resources\\\\common\\\\faceTime.png","name":"faceTime.png"}
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:16:50.503
+!MESSAGE [node console]Initial scan complete. Ready for changes.
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 15:24:38.666
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:38.778
+!MESSAGE [node console]BuildCode: 0.016ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:38.788
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:38.801
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:38.812
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:38.823
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:38.834
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:39.083
+!MESSAGE Project got saved: {"MSG_ID":984,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":984,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 15:24:40.842
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:40.903
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:40.905
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:40.908
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:50.319
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:50.320
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:24:50.336
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:25:03.710
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:25:03.806
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:25:18.550
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.399 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:25:18.732
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m4.237 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:25:18.828
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m2.009 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:25:18.851
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.057 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:25:18.917
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m2.074 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:25:29.600
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625660690011&version=7.1 [32m200 [0m0.814 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 15:26:53.546
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:26:53.637
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:26:53.649
+!MESSAGE [node console]BuildCode: 0.016ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:26:53.659
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:26:53.670
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:26:53.683
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:26:53.695
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:26:53.809
+!MESSAGE Project got saved: {"MSG_ID":1068,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":1068,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 15:26:55.567
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:26:55.638
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:26:55.641
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:26:55.644
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:27:08.896
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:27:08.898
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:27:08.945
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:27:20.691
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:27:20.775
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m0.685 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:27:20.784
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:27:20.972
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m1.724 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:27:21.041
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.513 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:27:21.068
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.046 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:27:21.125
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.184 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 15:32:54.113
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:32:54.234
+!MESSAGE [node console]BuildCode: 0.010ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:32:54.246
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:32:54.257
+!MESSAGE [node console]BuildCode: 0.016ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:32:54.267
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:32:54.279
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:32:54.290
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:32:54.488
+!MESSAGE Project got saved: {"MSG_ID":1151,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":1151,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 15:32:56.225
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:32:56.288
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:32:56.290
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:32:56.292
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:12.392
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [33m404 [0m0.992 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:12.443
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:12.443
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:12.461
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:17.552
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.182 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:17.800
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m5.455 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:17.913
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m4.785 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:17.931
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m3.675 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:17.990
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m3.633 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:28.547
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661192287&version=7.1 [32m200 [0m1.275 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:33.130
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:33.436
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:38.583
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661192287&version=7.1 [32m200 [0m0.725 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:48.626
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661192287&version=7.1 [32m200 [0m0.347 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 15:33:48.827
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:48.929
+!MESSAGE [node console]BuildCode: 0.007ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:48.940
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:48.953
+!MESSAGE [node console]BuildCode: 0.016ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:48.975
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:48.989
+!MESSAGE [node console]BuildCode: 0.010ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:48.999
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:49.071
+!MESSAGE Project got saved: {"MSG_ID":1238,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":1238,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 15:33:50.814
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:50.872
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:50.874
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:50.876
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:58.830
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.332 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:59.070
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m6.611 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:59.209
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m7.699 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:59.234
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m4.238 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:33:59.319
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m4.058 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:08.512
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:08.514
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:08.579
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:18.767
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.293 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:19.045
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m6.583 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:19.196
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m7.531 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:19.217
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m2.997 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:19.301
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m4.064 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:22.974
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:23.307
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:29.881
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661247675&version=7.1 [32m200 [0m0.351 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:34:39.930
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661247675&version=7.1 [32m200 [0m1.377 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 15:43:09.284
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:09.440
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:09.451
+!MESSAGE [node console]BuildCode: 0.015ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:09.463
+!MESSAGE [node console]BuildCode: 0.013ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:09.474
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:09.485
+!MESSAGE [node console]BuildCode: 0.015ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:09.495
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:09.597
+!MESSAGE Project got saved: {"MSG_ID":1328,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":1328,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 15:43:11.350
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:11.412
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:11.414
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:11.416
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:28.581
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:28.582
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:28.599
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:36.576
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:36.660
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:51.318
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m0.937 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:51.491
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m2.214 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:51.603
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.559 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:51.656
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.004 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:43:51.721
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m0.976 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:44:02.300
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661808239&version=7.1 [32m200 [0m0.678 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:44:12.379
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661808239&version=7.1 [32m200 [0m0.993 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:44:22.469
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661808239&version=7.1 [32m200 [0m0.997 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:44:32.519
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661808239&version=7.1 [32m200 [0m0.993 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:44:42.568
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661808239&version=7.1 [32m200 [0m1.034 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:44:52.617
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661808239&version=7.1 [32m200 [0m0.984 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:02.637
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661808239&version=7.1 [32m200 [0m0.347 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:12.690
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661808239&version=7.1 [32m200 [0m0.976 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 15:45:16.249
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:16.345
+!MESSAGE [node console]BuildCode: 0.014ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:16.356
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:16.366
+!MESSAGE [node console]BuildCode: 0.017ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:16.383
+!MESSAGE [node console]BuildCode: 0.012ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:16.395
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:16.407
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:16.579
+!MESSAGE Project got saved: {"MSG_ID":1419,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":1419,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 15:45:18.335
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:18.389
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:18.391
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:18.393
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:30.986
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:30.987
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:31.004
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:47.557
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:47.649
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:48.950
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.088 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:49.138
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m3.816 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:49.233
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m1.573 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:49.290
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.032 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:45:49.348
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.265 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:46:06.715
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.141 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:46:06.971
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m6.831 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:46:07.043
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m2.491 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:46:07.105
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m1.113 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:46:07.173
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m1.006 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:46:17.779
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661930762&version=7.1 [32m200 [0m1.017 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:46:27.828
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661930762&version=7.1 [32m200 [0m1.317 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:46:37.910
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625661930762&version=7.1 [32m200 [0m1.349 ms - -[0m
+
+!ENTRY org.eclipse.ui 4 0 2021-07-07 15:48:28.149
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.NullPointerException
+	at com.kony.studio.browser.services.BuildService.toList(BuildService.java:172)
+	at com.kony.studio.browser.services.BuildService.access$000(BuildService.java:33)
+	at com.kony.studio.browser.services.BuildService$1.run(BuildService.java:106)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:28.285
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:28.296
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:28.307
+!MESSAGE [node console]BuildCode: 0.009ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:28.318
+!MESSAGE [node console]BuildCode: 0.011ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:28.328
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:28.340
+!MESSAGE [node console]BuildCode: 0.008ms
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:28.666
+!MESSAGE Project got saved: {"MSG_ID":1510,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"Homework02","ORIGINAL_REQUEST":{"SERVICE_NAME":"SAVE_PROJECT","MSG_ID":1510,"MSG_TYPE":"REQUEST","DATA":{"checkLicense":false,"savedByMenuItem":false}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 2 0 2021-07-07 15:48:30.444
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:30.511
+!MESSAGE Selected platforms: [android]
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:30.512
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:30.515
+!MESSAGE JSONObject["kfAppInfo"] not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:41.077
+!MESSAGE Code generation is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:41.078
+!MESSAGE Code generation for project 'Homework02' completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:41.094
+!MESSAGE konyplugins.xml is copied to D:\Homework\Homework02 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:54.500
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:48:54.804
+!MESSAGE Functional Preview service is listening on 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:49:08.090
+!MESSAGE [node console][0mGET /metainfo/android/metafile.info?version=7.1 [32m200 [0m1.311 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:49:08.260
+!MESSAGE [node console][0mGET /Homework02/android//src.zip?version=7.1 [32m200 [0m3.327 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:49:08.362
+!MESSAGE [node console][0mGET /Homework02/android//images.zip?version=7.1 [32m200 [0m3.227 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:49:08.430
+!MESSAGE [node console][0mGET /Homework02/android//themes.zip?version=7.1 [32m200 [0m0.992 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:49:08.502
+!MESSAGE [node console][0mGET /Homework02/android//fonts.zip?version=7.1 [32m200 [0m0.956 ms - -[0m
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 15:49:19.085
+!MESSAGE [node console][0mGET /Homework02/android/metafile.info?timestamp=t1625662120830&version=7.1 [32m200 [0m1.084 ms - -[0m

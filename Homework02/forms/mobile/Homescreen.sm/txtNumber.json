@@ -42,6 +42,7 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
+    "disabledSkins": {},
     "focusskin": "s17ecf58694e49db9d0c91a41cf2b67c",
     "id": "txtNumber",
     "info": null,

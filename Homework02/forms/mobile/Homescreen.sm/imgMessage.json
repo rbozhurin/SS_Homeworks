@@ -24,7 +24,7 @@
         0
     ],
     "_skin_": "sd6db923afb44d9a8a0f28a6072efaa0",
-    "_src_": "imagedrag.png",
+    "_src_": "message.png",
     "_top_": {
         "type": "string",
         "value": "9dp"
@@ -45,6 +45,7 @@
     "id": "imgMessage",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "f68b45ad9ce447fd9abcf25d96679a6d",

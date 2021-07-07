@@ -27,7 +27,7 @@
     "_src_": "imagedrag.png",
     "_top_": {
         "type": "string",
-        "value": "36dp"
+        "value": "23dp"
     },
     "_width_": {
         "type": "string",
@@ -49,6 +49,7 @@
     "isvisible": true,
     "kuid": "cfafe8e870264a16b493b8cf2651a049",
     "name": "kony.ui.Image2",
+    "paddinginpixel": false,
     "parent": "headerContainer",
     "pf": "Homescreen",
     "retaincontentalignment": false,

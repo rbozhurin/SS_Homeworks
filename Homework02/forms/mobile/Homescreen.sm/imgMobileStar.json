@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "10dp"
+        "value": "14dp"
     },
     "_left_": {
         "type": "string",
-        "value": "53dp"
+        "value": "45dp"
     },
     "_margin_": [
         0,
@@ -24,14 +24,14 @@
         0
     ],
     "_skin_": "sd6db923afb44d9a8a0f28a6072efaa0",
-    "_src_": "imagedrag.png",
+    "_src_": "star.png",
     "_top_": {
         "type": "string",
-        "value": "16dp"
+        "value": "13dp"
     },
     "_width_": {
         "type": "string",
-        "value": "10dp"
+        "value": "11dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -45,6 +45,7 @@
     "id": "imgMobileStar",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "be01eadd39924dfebdedf3d0ea0c6ad9",
