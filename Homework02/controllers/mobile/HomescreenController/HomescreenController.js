@@ -7,7 +7,6 @@ define({
 
   init: function() {
     this.view.onClick = this.clicked;
-//     this.view.PhoneFlexContainer.
   },
 
   preShow: function() {
