@@ -54,17 +54,6 @@ define({
     this.view.segList.setData(this.formatedData);
   },
   
-  onRowClicked: function() {
-    var indexOfSelectedRow = this.view.segList.selectedRowIndex[1];
-    var contactData = this.segDataList[indexOfSelectedRow];
-    kony.store.setItem("contactDetails", contactData);
-    
-    //TODO navigation
-    
-    var data = kony.store.getItem("contactDetails");
-    data.navigate("Homescreen");
-  },
-  
   formatedSegmentData: function(responseData,fomratedData) {
     var scope = this;
     responseData.forEach(function(contact) {
@@ -75,6 +64,15 @@ define({
         "lblStrip": {"width": "2%"}
       });
     });
+  },
+  
+  onRowClicked: function() {
+    var indexOfSelectedRow = this.view.segList.selectedRowIndex[1];
+    var contactData = this.segDataList[indexOfSelectedRow];
+    kony.store.setItem("contactDetails", contactData);
+    
+    var ntf = new kony.mvc.Navigation("Homescreen");
+    ntf.navigate();
   },
 
  });
