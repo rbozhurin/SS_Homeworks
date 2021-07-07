@@ -1,0 +1,21 @@
+{
+    "AS_TextField_edcb623027014ff59a936d8707b589ca": {
+        "id": "AS_TextField_edcb623027014ff59a936d8707b589ca",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "Homescreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a73a21b190d7481cbebd9bdba48b0be2"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

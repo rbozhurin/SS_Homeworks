@@ -1,0 +1,37 @@
+{
+    "AS_Label_bff8d130046d4afeb7d19e9513435f5c": {
+        "id": "AS_Label_bff8d130046d4afeb7d19e9513435f5c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Homescreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a73a21b190d7481cbebd9bdba48b0be2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___c3dbd979875249c9a161faba3e4b11ab",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSegList",
+            "formKUID": "da4e392943074d24afd4f1e4cf89becc",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchStart\",\n        \"widgetId\": \"lblContacts\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

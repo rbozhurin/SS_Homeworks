@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94b08eecb8349a9b5c521febe017921",
+    "_text_": "  Add to Favorites",
+    "_top_": {
+        "type": "string",
+        "value": "591dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s2c55980a08d41a5b4b5b68ebbdaa028",
+    "id": "btnFavorites",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b08f89b9cf69480b8e7b5a6093fc2119",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flexScrlMainContainer",
+    "pf": "Homescreen",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}
