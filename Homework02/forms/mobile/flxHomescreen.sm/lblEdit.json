@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "357dp"
-    },
     "_margin_": [
         1,
         1,
@@ -22,6 +18,10 @@
         0,
         0
     ],
+    "_right_": {
+        "type": "string",
+        "value": "14dp"
+    },
     "_skin_": "s2f9d68e15bd4ab98b442806131f27b9",
     "_text_": "Edit",
     "_top_": {
