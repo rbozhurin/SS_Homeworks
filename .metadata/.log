@@ -1,0 +1,29 @@
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:51:08.615
+!MESSAGE Found installation dir: C:\KonyVisualizerEnterprise8.4.11.0\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:51:09.241
+!MESSAGE Node process exit code: 1
+
+!ENTRY com.pat.tool.keditor 1 0 2021-07-07 11:51:09.242
+!MESSAGE Node server shut down sucessful.
+
+!ENTRY org.eclipse.ui.ide 4 4 2021-07-07 11:51:20.538
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 4 1 2021-07-07 11:51:20.539
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 4 568 2021-07-07 11:51:20.539
+!MESSAGE Could not write workspace metadata 'D:/Homework/.metadata/.plugins/org.eclipse.core.resources/.root/7.tree'.
+!STACK 0
+java.io.FileNotFoundException: D:\Homework\.metadata\.plugins\org.eclipse.core.resources\.root\7.tree (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.localstore.SafeFileOutputStream.<init>(SafeFileOutputStream.java:51)
+	at org.eclipse.core.internal.resources.SaveManager.saveTree(SaveManager.java:1352)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1134)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2376)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
