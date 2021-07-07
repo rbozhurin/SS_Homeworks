@@ -1,0 +1,84 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": "29/6/2021",
+    "_height_": {
+        "type": "string",
+        "value": "170dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "438dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9f31e3fe50a4da286d6105cb99625c3",
+    "_top_": {
+        "type": "string",
+        "value": "113dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "373dp"
+    },
+    "advview": "default",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.08%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        29,
+        6,
+        2021,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "day": 29,
+    "daytextalignmentincell": 5,
+    "format": "dd/MM/yyyy",
+    "formatteddate": "29/06/2021",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "date",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f906500093374a1d9d0c4ee33809fad3",
+    "minutes": 0,
+    "month": 6,
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "pagedate": "/2021",
+    "parent": "Form2",
+    "pf": "Form2",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 0,
+    "selectdate": "//2021",
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "year": 2021,
+    "zindex": 1
+}

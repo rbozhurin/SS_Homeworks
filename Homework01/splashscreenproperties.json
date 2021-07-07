@@ -1,0 +1,127 @@
+{
+<<<<<<< HEAD
+    "splashScreen": {
+        "desktop": {
+            "desktopweb": {},
+            "kiosk": {}
+        },
+        "mobile": {
+            "android": {},
+            "iphone": {
+                "splashConfig": {
+                    "_skin_": "s93e27b835df4e8099d886a20a24c460",
+                    "children": [
+                        {
+                            "UIElementType": "Image",
+                            "_height_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "_left_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_src_": "splash.png",
+                            "_top_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_width_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "contentmode": 0,
+                            "id": "splashImage",
+                            "isvisible": true,
+                            "kuid": "fe9ca9007d624d9eb195b67fc1ab635d",
+                            "wType": "Image"
+                        }
+                    ]
+                }
+            },
+            "spa": {},
+            "spaan": {},
+            "spabb": {},
+            "spaip": {},
+            "spawinphone8": {},
+            "winphone10": {},
+            "winphone8": {}
+        },
+        "tablet": {
+            "android": {},
+            "ipad": {
+                "landscape": {},
+                "splashConfig": {
+                    "_skin_": "s93e27b835df4e8099d886a20a24c460",
+                    "children": [
+                        {
+                            "UIElementType": "Image",
+                            "_height_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "_left_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_src_": "splash.png",
+                            "_top_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_width_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "contentmode": 0,
+                            "id": "splashImage",
+                            "isvisible": true,
+                            "kuid": "ied05dc8b1e147a0bae6f08eff50a570",
+                            "wType": "Image"
+                        }
+                    ]
+                }
+            },
+            "spa": {},
+            "spaandroidtablet": {},
+            "spaipad": {},
+            "spawindowstablet": {},
+            "windows8": {}
+        }
+    }
+=======
+	"splashScreen": {
+		"mobile": {
+			"iphone": {
+				"splashImage": "splash.png"
+			},
+			"android": {},
+			"winphone8": {},
+			"winphone10": {},
+			"spa": {},
+			"spaip": {},
+			"spaan": {},
+			"spabb": {},
+			"spawinphone8": {}
+		},
+		"tablet": {
+			"ipad": {
+				"landscape": {
+					"splashImage": "splashland.png"
+				},
+				"splashImage": "splash.png"
+			},
+			"android": {},
+			"windows8": {},
+			"spa": {},
+			"spaipad": {},
+			"spaandroidtablet": {},
+			"spawindowstablet": {}
+		},
+		"desktop": {
+			"desktopweb": {},
+			"kiosk": {}
+		}
+	}
+>>>>>>> 3eb8231 (homework02)
+}
