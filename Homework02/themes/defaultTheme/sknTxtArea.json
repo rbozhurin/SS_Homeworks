@@ -1,5 +1,8 @@
 {
   "android": {
+    "border_color": "333333ff",
+    "border_style": "plain",
+    "border_width": 0,
     "font_color": "017affff",
     "font_name": "default",
     "font_size": 100,
@@ -18,6 +21,9 @@
   "font_style": "normal",
   "font_weight": "normal",
   "iphone": {
+    "border_color": "333333ff",
+    "border_style": "plain",
+    "border_width": 0,
     "font_color": "f21f1fff",
     "font_name": "System",
     "font_size": 100,
