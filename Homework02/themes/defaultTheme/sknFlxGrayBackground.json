@@ -1,9 +1,7 @@
 {
   "android": {
-    "font_name": "default"
-  },
-  "androidwearos": {
-    "font_name": "default"
+    "font_name": "default",
+    "isForked": true
   },
   "background_color": "00000014",
   "bg_type": "one",
@@ -11,52 +9,13 @@
   "border_style": "plain",
   "border_type": 0,
   "border_width": 0,
-  "desktopweb": {
-    "font_name": "Helvetica"
-  },
-  "ipad": {
-    "font_name": "System"
-  },
   "iphone": {
-    "font_name": "System"
+    "background_color": "0000007f",
+    "bg_type": "one",
+    "font_name": "System",
+    "isForked": true
   },
   "isDefaultSkin": false,
-  "kiosk": {
-    "font_name": "None"
-  },
   "kuid": "sb4e6fdf889e4a7b83620c6c10afa928",
-  "spaan": {
-    "font_name": "Helvetica"
-  },
-  "spaandroidtablet": {
-    "font_name": "Helvetica"
-  },
-  "spabb": {
-    "font_name": "Helvetica"
-  },
-  "spaip": {
-    "font_name": "Helvetica"
-  },
-  "spaipad": {
-    "font_name": "Helvetica"
-  },
-  "spawindowstablet": {
-    "font_name": "Helvetica"
-  },
-  "spawinphone8": {
-    "font_name": "Helvetica"
-  },
-  "tabrcandroid": {
-    "font_name": "default"
-  },
-  "wType": "FlexScrollContainer",
-  "watchos": {
-    "font_name": "System"
-  },
-  "windows8": {
-    "font_name": "None"
-  },
-  "winphone8": {
-    "font_name": "None"
-  }
+  "wType": "FlexScrollContainer"
 }

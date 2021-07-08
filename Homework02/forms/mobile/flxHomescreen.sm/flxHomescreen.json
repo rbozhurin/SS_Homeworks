@@ -43,7 +43,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "Pixel3XL",
+    "device": "Pixel3",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "flxHomescreen",
@@ -103,7 +103,7 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "and_Pixel3XL",
+    "shellCSS": "and_Pixel3",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

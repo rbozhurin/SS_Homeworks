@@ -1,0 +1,29 @@
+{
+  "android": {
+    "font_color": "017affff",
+    "font_name": "default",
+    "font_size": 100,
+    "isForked": true
+  },
+  "background_color": "ffffffff",
+  "bg_type": "one",
+  "border_color": "333333ff",
+  "border_style": "rc",
+  "border_type": 0,
+  "border_width": 1,
+  "fontSizeInPx": false,
+  "font_color": "f21f1fff",
+  "font_name": "iphoneSystem",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "iphone": {
+    "font_color": "f21f1fff",
+    "font_name": "System",
+    "font_size": 100,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kuid": "s130093e220542048dab994a2a522767",
+  "wType": "TextArea"
+}

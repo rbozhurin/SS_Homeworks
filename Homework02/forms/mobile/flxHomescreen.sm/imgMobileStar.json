@@ -9,7 +9,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "45dp"
+        "value": "55dp"
     },
     "_margin_": [
         0,
@@ -27,7 +27,7 @@
     "_src_": "star.png",
     "_top_": {
         "type": "string",
-        "value": "13dp"
+        "value": "14dp"
     },
     "_width_": {
         "type": "string",
