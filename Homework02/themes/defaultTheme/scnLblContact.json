@@ -1,5 +1,6 @@
 {
   "android": {
+    "font_color": "398dffff",
     "font_name": "default",
     "font_size": 140,
     "isForked": true
@@ -17,7 +18,7 @@
   "font_style": "normal",
   "font_weight": "normal",
   "iphone": {
-    "font_color": "f21f1fff",
+    "font_color": "f72a2aff",
     "font_name": "System",
     "font_size": 140,
     "isForked": true

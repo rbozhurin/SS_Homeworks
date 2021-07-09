@@ -8,17 +8,17 @@ define({
   	dateAdded: "23/04/2021"
    },
    {
-     name: "Sofronii Vrachanski",
+    name: "Sofronii Vrachanski",
     phone: "0888236521",
     email: "jitieAndStradanie@halo.com",
     src: "sofronii.png",
   	dateAdded: "23/04/2021"
    },
    {
-     name: "Krali Marko i Snejina",
+    name: "Krali Marko i Snejina",
     phone: "0845825521",
     email: "chakaraka@giubek.be",
-    src: "markoAndsneja.png",
+    src: "marko.png",
   	dateAdded: "23/04/2021"
    },
    {
@@ -29,7 +29,7 @@ define({
   	dateAdded: "23/04/2021"
    },
    {
-     name: "Sofronii Vrachanski",
+    name: "Sofronii Vrachanski",
     phone: "0888236521",
     email: "jitieAndStradanie@halo.com",
     src: "sofronii.png",
@@ -39,14 +39,14 @@ define({
     name: "Krali Marko i Snejina",
     phone: "0845825521",
     email: "chakaraka@giubek.be",
-    src: "markoAndsneja.png",
+    src: "marko.png",
   	dateAdded: "23/04/2021"
    },
    {
     name: "Ali Baba",
     phone: "0888888888",
     email: "lotaria@biletche.com",
-    src: "aliBaba.png",
+    src: "alibaba.png",
     dateAdded: "25/06/2021"
    },
    {
@@ -67,7 +67,7 @@ define({
      name: "Krali Marko i Snejina",
     phone: "0845825521",
     email: "chakaraka@giubek.be",
-    src: "markoAndsneja.png",
+    src: "marko.png",
   	dateAdded: "23/04/2021"
    },
    {
@@ -81,7 +81,7 @@ define({
     name: "Ali Baba",
     phone: "0888888888",
     email: "lotaria@biletche.com",
-    src: "aliBaba.png",
+    src: "alibaba.png",
     dateAdded: "25/06/2021"
    },
    {
@@ -95,14 +95,14 @@ define({
     name: "Krali Marko i Snejina",
     phone: "0845825521",
     email: "chakaraka@giubek.be",
-    src: "markoAndsneja.png",
+    src: "marko.png",
   	dateAdded: "23/04/2021"
    },
    {
     name: "Ali Baba",
     phone: "0888888888",
     email: "lotaria@biletche.com",
-    src: "aliBaba.png",
+    src: "alibaba.png",
     dateAdded: "25/06/2021"
    },
     {
