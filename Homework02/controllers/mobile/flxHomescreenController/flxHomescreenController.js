@@ -8,7 +8,6 @@ define({
 
   init: function() {
     this.view.onClick = this.clicked;
-//     this.view.SwitchTheme.onSlide = this.changeTheme;
     
   },
 
