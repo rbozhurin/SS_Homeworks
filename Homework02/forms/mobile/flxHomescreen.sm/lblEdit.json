@@ -63,6 +63,7 @@
     "pf": "flxHomescreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "lblEdit",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

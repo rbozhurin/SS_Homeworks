@@ -62,6 +62,7 @@
     "pf": "flxHomescreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "flxMail",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

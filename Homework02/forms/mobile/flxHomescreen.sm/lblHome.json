@@ -30,7 +30,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "40dp"
+        "value": "169dp"
     },
     "_wrapping_": 2,
     "android": {
@@ -62,6 +62,7 @@
     "pf": "flxHomescreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "lblHome",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

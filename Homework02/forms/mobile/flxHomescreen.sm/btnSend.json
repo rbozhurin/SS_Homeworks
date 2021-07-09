@@ -49,6 +49,7 @@
     "pf": "flxHomescreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "btnSend",
     "wType": "Button",
     "zindex": 1
 }

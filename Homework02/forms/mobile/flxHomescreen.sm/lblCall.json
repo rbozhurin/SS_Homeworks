@@ -62,6 +62,7 @@
     "pf": "flxHomescreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "flxCall",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

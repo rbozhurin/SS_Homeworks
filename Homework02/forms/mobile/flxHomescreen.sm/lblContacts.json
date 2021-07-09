@@ -63,6 +63,7 @@
     "pf": "flxHomescreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "lblContacts",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "94dp"
+        "value": "19.49%"
     },
     "_margin_": [
         1,
@@ -26,11 +26,11 @@
     "_text_": "always use:",
     "_top_": {
         "type": "string",
-        "value": "18%"
+        "value": "16.21%"
     },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "28.07%"
     },
     "_wrapping_": 2,
     "android": {
@@ -62,6 +62,7 @@
     "pf": "flxHomescreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "lbladdText",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

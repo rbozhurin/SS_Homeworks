@@ -1,0 +1,120 @@
+{
+    "keys": [
+        "btnFavorites",
+        "btnSend",
+        "btnShare",
+        "flxCall",
+        "flxFaceTime",
+        "flxMail",
+        "flxMessage",
+        "flxPay",
+        "lblContacts",
+        "lblEdit",
+        "lblHome",
+        "lblMobile",
+        "lblPrimary",
+        "lbladdText"
+    ],
+    "locales": {
+        "ar": {
+            "i18nStrings": {
+                "btnFavorites": " اضافة الى المفضلة",
+                "btnSend": "أرسل رسالة",
+                "btnShare": " شارك جهة الإتصال",
+                "flxCall": "يتصل",
+                "flxFaceTime": "وقت المواجه",
+                "flxMail": "بريد",
+                "flxMessage": "رسالة",
+                "flxPay": " يدفع",
+                "lblContacts": "جهات الاتصال",
+                "lblEdit": "يحرر",
+                "lblHome": " الصفحة الرئيسية",
+                "lblMobile": "التليفون المحمول",
+                "lblPrimary": "خبرات>",
+                "lbladdText": "يستخدم دائما:"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "bg": {
+            "i18nStrings": {
+                "btnFavorites": "Добави към Любими",
+                "btnSend": "Изпрати Съобщение",
+                "btnShare": "Сподели Контакт",
+                "flxCall": "обаждане",
+                "flxFaceTime": "FaceTime",
+                "flxMail": "поща",
+                "flxMessage": "съобщение",
+                "flxPay": "плащане",
+                "lblContacts": "Контакти",
+                "lblEdit": "Редактиране",
+                "lblHome": "домашен",
+                "lblMobile": "мобилен",
+                "lblPrimary": "Основен>",
+                "lbladdText": "винаги използвай:"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "en": {
+            "i18nStrings": {
+                "btnFavorites": "Add to Favorites",
+                "btnSend": "Send Message",
+                "btnShare": "share Contact",
+                "flxCall": "call",
+                "flxFaceTime": "FaceTime",
+                "flxMail": "mail",
+                "flxMessage": "message",
+                "flxPay": "pay",
+                "lblContacts": "Contacts",
+                "lblEdit": "Edit",
+                "lblHome": "home",
+                "lblMobile": "mobile",
+                "lblPrimary": "Primary>",
+                "lbladdText": "always use:"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "es": {
+            "i18nStrings": {
+                "btnFavorites": " Agregar a los favoritos",
+                "btnSend": "Enviar mensaje",
+                "btnShare": " Compartir contacto",
+                "flxCall": " llamada",
+                "flxFaceTime": "FaceTime",
+                "flxMail": "correo",
+                "flxMessage": " mensaje",
+                "flxPay": " pagar",
+                "lblContacts": "Contactos",
+                "lblEdit": " Editar",
+                "lblHome": "casa",
+                "lblMobile": "móvil",
+                "lblPrimary": "Primario>",
+                "lbladdText": " siempre usa:"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        }
+    }
+}
