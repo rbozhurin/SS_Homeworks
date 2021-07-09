@@ -8,7 +8,7 @@ define({
 
   init: function() {
     this.view.onClick = this.clicked;
-    this.view.switchTheme.onSlide = this.changeTheme;
+//     this.view.switchTheme.onSlide = this.changeTheme;
     
   },
 
@@ -59,13 +59,13 @@ define({
       alert("Skin no longer exist");
     }
 
-    if(this.flag){
-      kony.theme.setCurrentTheme("DarkTheme", onsuccesscallback, onerrorcallback);
-      this.flag = false;
-    }else{
-      kony.theme.setCurrentTheme("MyTheme", onsuccesscallback, onerrorcallback);
-      this.flag = true;
-    }
-  }
+//     if(this.flag){
+//       kony.theme.setCurrentTheme("DarkTheme", onsuccesscallback, onerrorcallback);
+//       this.flag = false;
+//     }else{
+//       kony.theme.setCurrentTheme("MyTheme", onsuccesscallback, onerrorcallback);
+//       this.flag = true;
+//     }
+//   }
 
 });

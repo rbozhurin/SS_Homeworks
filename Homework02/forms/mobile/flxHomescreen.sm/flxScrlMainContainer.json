@@ -49,8 +49,7 @@
         "flxNotes",
         "btnSend",
         "btnShare",
-        "btnFavorites",
-        "switchTheme"
+        "btnFavorites"
     ],
     "clipbounds": true,
     "containerweight": 100,
