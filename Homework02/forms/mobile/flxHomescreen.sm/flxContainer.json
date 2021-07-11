@@ -36,11 +36,11 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxMessage",
-        "flxCall",
-        "flxFaceTime",
-        "flxMail",
-        "flxPay"
+        "message",
+        "call",
+        "faceTime",
+        "mail",
+        "pay"
     ],
     "clipbounds": true,
     "containerweight": 100,

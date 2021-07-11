@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "8dp"
+        "value": "5dp"
     },
     "_margin_": [
         1,
@@ -23,14 +23,14 @@
         0
     ],
     "_skin_": "sfee377c089840899ff924be7e946221",
-    "_text_": "mail",
+    "_text_": "message",
     "_top_": {
         "type": "string",
         "value": "32dp"
     },
     "_width_": {
         "type": "string",
-        "value": "50dp"
+        "value": "58dp"
     },
     "_wrapping_": 2,
     "android": {
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "lblMail",
+    "id": "lblMessage",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,13 +56,13 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "j6c628969879436e92b2b04e1ee42359",
+    "kuid": "g7c0f6ec88f94ab1b7de32a97b99c1f7",
     "name": "kony.ui.Label",
-    "parent": "flxMail",
-    "pf": "flxHomescreen",
+    "parent": "message",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "texti18n": "flxMail",
+    "texti18n": "flxMessage",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

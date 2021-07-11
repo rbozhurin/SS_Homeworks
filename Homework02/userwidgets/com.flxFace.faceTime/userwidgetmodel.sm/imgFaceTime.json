@@ -24,7 +24,7 @@
         0
     ],
     "_skin_": "sd6db923afb44d9a8a0f28a6072efaa0",
-    "_src_": "call.png",
+    "_src_": "face.png",
     "_top_": {
         "type": "string",
         "value": "9dp"
@@ -42,16 +42,16 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "imgCall",
+    "id": "imgFaceTime",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "bd2689da91ea4f1295d0661a0301bb53",
+    "kuid": "e9c05ab9df38448eaee2434f7a58f276",
     "name": "kony.ui.Image2",
-    "parent": "flxCall",
-    "pf": "flxHomescreen",
+    "parent": "faceTime",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "srcType": 1,

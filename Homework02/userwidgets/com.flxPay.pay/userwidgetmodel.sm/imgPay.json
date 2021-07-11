@@ -9,7 +9,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "25dp"
+        "value": "23dp"
     },
     "_margin_": [
         0,
@@ -24,7 +24,7 @@
         0
     ],
     "_skin_": "sd6db923afb44d9a8a0f28a6072efaa0",
-    "_src_": "face.png",
+    "_src_": "pay.png",
     "_top_": {
         "type": "string",
         "value": "9dp"
@@ -42,16 +42,16 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "imgFaceTime",
+    "id": "imgPay",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ba4c7a815b314a5f8f0b93b9d6524a8a",
+    "kuid": "f8c828c918954473b76963f7e4c2244e",
     "name": "kony.ui.Image2",
-    "parent": "flxFaceTime",
-    "pf": "flxHomescreen",
+    "parent": "pay",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "srcType": 1,

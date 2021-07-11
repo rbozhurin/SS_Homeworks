@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "155dp"
+        "value": "1dp"
     },
     "_margin_": [
         0,
@@ -23,7 +23,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s6afe520145c4596908bfe718e42587c",
+    "_skin_": "s7e592a52a78401b955936b28c1cd408",
     "_top_": {
         "type": "string",
         "value": "6dp"
@@ -36,26 +36,29 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "imgFaceTime",
-        "lblFaceTime"
+        "imgMessage",
+        "lblMessage"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxFaceTime",
+    "id": "message",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a070a7ffd65249f1a4c0ef7f941c5f14",
+    "kuid": "d47b8cbf46754b7bad80d27fa148f9b4",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxContainer",
-    "pf": "flxHomescreen",
+    "parent": "userwidgetmodel",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
     "wType": "FlexContainer",
     "widgetalignment": 1,
     "zindex": 1

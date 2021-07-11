@@ -224,6 +224,7 @@
     "containerweight": 100,
     "counter": "09",
     "disabledSkins": {
+        "rowSkin": "s10261edbdca494d9806db94b5ec0dfb",
         "widgetSkin": "s512210175074653b1570592ff360137"
     },
     "docksectionheaders": false,
@@ -262,7 +263,6 @@
     "rowTemplateId": "5b5ada69c50746feba6a40270fa09838",
     "rowcounter": 9,
     "rowfocusskin": "s8dd3f943660436886dfe0ac5d8e5469",
-    "rowskin": "s10261edbdca494d9806db94b5ec0dfb",
     "rowtemplate": "flxSampleRowTemplate",
     "screenlevelwidget": false,
     "seccounter": 0,

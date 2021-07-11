@@ -33,7 +33,7 @@ define({
       this.view.txtNumber.setEnabled(true);
       this.view.flxNotes.setEnabled(true);
       
-      this.view.txtHome.setFocus(true);
+      this.view.txtNumber.setFocus(true);
       this.flag = false;
     } else {
       this.view.lblEdit.text = "Edit";
@@ -50,14 +50,14 @@ define({
     ntf.navigate();
   },
   
-   changeTheme: function(){
-    function onsuccesscallback() {
-      alert(`Successfully change Theme`);
-    }
+//    changeTheme: function(){
+//     function onsuccesscallback() {
+//       alert(`Successfully change Theme`);
+//     }
 
-    function onerrorcallback() {
-      alert("Skin no longer exist");
-    }
+//     function onerrorcallback() {
+//       alert("Skin no longer exist");
+//     }
 
 //     if(this.flag){
 //       kony.theme.setCurrentTheme("DarkTheme", onsuccesscallback, onerrorcallback);

@@ -23,7 +23,7 @@
         0
     ],
     "_skin_": "sfee377c089840899ff924be7e946221",
-    "_text_": "message",
+    "_text_": "FaceTime",
     "_top_": {
         "type": "string",
         "value": "32dp"
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "lblMessage",
+    "id": "lblFaceTime",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,13 +56,13 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a7f0ad49f6714ea4920d0e7671af71cb",
+    "kuid": "b8c8d074ac8e45528df771a67797eb22",
     "name": "kony.ui.Label",
-    "parent": "flxMessage",
-    "pf": "flxHomescreen",
+    "parent": "faceTime",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "texti18n": "flxMessage",
+    "texti18n": "flxFaceTime",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

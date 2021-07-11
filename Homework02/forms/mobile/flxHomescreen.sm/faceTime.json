@@ -1,0 +1,98 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_iphone_": {},
+    "_left_": {
+        "type": "string",
+        "value": "155dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s6afe520145c4596908bfe718e42587c",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_top_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "faceTime": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "e08da70a7348427caac83839de818750",
+                "srcKUID": "a3c43bd475554d70b5c87771d0e4f5c6",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgFaceTime": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g804e73752c441989ca9a01450f00fac",
+                "srcKUID": "e9c05ab9df38448eaee2434f7a58f276",
+                "wType": "Image"
+            }
+        },
+        "lblFaceTime": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ff12f82dd7ac4b0ab76f7c4b918bf8d8",
+                "srcKUID": "b8c8d074ac8e45528df771a67797eb22",
+                "wType": "Label"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "faceTime",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "e08da70a7348427caac83839de818750",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxContainer",
+    "pf": "flxHomescreen",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "a3c43bd475554d70b5c87771d0e4f5c6",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}
