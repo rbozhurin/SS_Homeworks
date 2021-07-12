@@ -1,5 +1,5 @@
 {
-    "classname": "rating",
+    "classname": "paint",
     "definitions": {
         "apis": {
             "custom": [],
@@ -24,6 +24,6 @@
             "passthrough": []
         }
     },
-    "namespace": "com.someProject",
+    "namespace": "com.PickColor",
     "version": "1.0.0"
 }

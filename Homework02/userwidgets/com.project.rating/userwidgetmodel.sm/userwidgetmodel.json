@@ -37,9 +37,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "u8ac72d0250d49ed9ab0199d4ce81ae0",
+    "kuid": "uc8753d81f6f42a79dd23ab0cbcf79d8",
     "layouttype": 2,
-    "masterType": 0,
+    "masterType": 1,
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "outtransitionconfig": {
