@@ -16,7 +16,24 @@
             "widgets": []
         },
         "properties": {
-            "custom": [],
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "",
+                    "group": "General",
+                    "kuid": "ca9bd61d46e745c1bbb020f84985ffb4",
+                    "originalPropertyKey": "changePaint",
+                    "propertyIndex": 1,
+                    "propertyKey": "changePaint",
+                    "pw": {
+                        "displayName": "colorChange",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "ebfa7af3b6a040f0b51ec263c1736b20",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
             "passthrough": []
         },
         "widgets": {
