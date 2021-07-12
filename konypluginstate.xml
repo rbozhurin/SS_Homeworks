@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="pluginstate">
-	<item value="false" key="Homework02.winmobilebuild"/>
-	<item value="true" key="Homework03.balckberrybuild"/>
-	<item value="true" key="Homework02.balckberrybuild"/>
-	<item value="true" key="Homework02.j2mebuild"/>
-	<item value="true" key="Homework03.winmobilebuild"/>
-	<item value="true" key="Homework03.j2mebuild"/>
-</section>
