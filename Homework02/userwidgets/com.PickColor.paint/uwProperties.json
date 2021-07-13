@@ -21,7 +21,7 @@
                     "access": "Write",
                     "defaultValue": "",
                     "group": "General",
-                    "kuid": "ca9bd61d46e745c1bbb020f84985ffb4",
+                    "kuid": "a21e7c58e583432794a355b64bd53187",
                     "originalPropertyKey": "changePaint",
                     "propertyIndex": 1,
                     "propertyKey": "changePaint",
@@ -34,7 +34,25 @@
                     "value": ""
                 }
             ],
-            "passthrough": []
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "g43319a41ea24a378c9c0c6da8b68c6a",
+                    "originalPropertyKey": "blockedUISkin",
+                    "propertyIndex": 2,
+                    "propertyKey": "blockedUISkin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Blocked UI",
+                        "srcWidget": "btnGo",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "b20b5b7ffeca447bb09fc99a728f8681"
+                }
+            ]
         },
         "widgets": {
             "expose": [],
