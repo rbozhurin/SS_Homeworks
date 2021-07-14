@@ -1,4 +1,5 @@
 define(function() {
+
   var colors = {
     green: "4CEC21",
     blue:  "217DEC",
@@ -7,24 +8,18 @@ define(function() {
   };
   var painting = function(color) {
 
-    switch(color){
-      case "green":
-        this.view.flxPaint.backgroundColor = colors.green;
-        break;
-      case "blue":
-        this.view.flxPaint.backgroundColor = colors.blue;
-        break;
-      case "pink":
-        this.view.flxPaint.backgroundColor = colors.pink;
-        break;
-      case "yellow":
-        this.view.flxPaint.backgroundColor = colors.yellow;
-        break;
+    if(colors.hasOwnProperty(color)){
+      this.view.backgroundColor = colors[color];
+
+      return;
     }
+
+    alert("Wrong Input!");
+
   };
   return {
     constructor: function(baseConfig, layoutConfig, pspConfig) {
-      this._paint = "sknPaint";
+      this._paint = "ff0000";
       this._painting = painting.bind(this);
     },
 
@@ -34,6 +29,7 @@ define(function() {
       });
       defineSetter(this, 'paint', value => {
         this._paint = value;
+        this._painting(this._paint);
       });
     },
   };
